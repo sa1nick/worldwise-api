@@ -1,4 +1,5 @@
-"cities": [
+{
+    "cities": [
     {
       "cityName": "Lisbon",
       "country": "Portugal",
@@ -109,3 +110,5 @@
       "id": 234923049
     }
   ]
+
+}
