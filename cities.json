@@ -1,6 +1,18 @@
 {
     "cities": [
     {
+      "cityName": "Sikar",
+      "country": "India",
+      "emoji": "",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "My Hometown 🏠😊",
+      "position": {
+        "lat": 27.615406,
+        "lng": 75.125885
+      },
+      "id": 58403430
+    }   
+    ,{
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
